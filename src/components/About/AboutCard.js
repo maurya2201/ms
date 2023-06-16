@@ -13,7 +13,7 @@ function AboutCard() {
             <br /> I am a final year student pursuing an BTECH
             in IT at CHARUSAT.
             <br />
-            Additionally, I am currently doing internship as a software developer at
+            Additionally, I am currently doing internship as a Web developer at
             Raven Technolabs.
             <br />
             <br />
