@@ -116,7 +116,8 @@ function Projects() {
              <li>MONGODB(DATABASE)</li> 
               </ul>
               </center>}
-            ghLink="https://github.com/maurya2201/LIBRARY-MANAGEMENT-SYSTEM-MERN"
+            ghLink="https://github.com/maurya2201/library-management-system-frontend.git",
+              "https://github.com/maurya2201/library-management-system-backend.git"
             demoLink="https://lms-bugq.onrender.com"
           />
         </Col> 
