@@ -91,11 +91,8 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
    <DropdownButton id="dropdown-basic-button" title="CERTIFICATES">
-        <Dropdown.Item href="https://www.credly.com/badges/6d3cffdc-43c7-40cd-8e66-be63e8fa17e8">AZ-900</Dropdown.Item>
-        <Dropdown.Item href="https://www.credly.com/badges/3d7071b0-46fd-4c1e-9421-f08b1433c71b">SC-900</Dropdown.Item>
-        <Dropdown.Item href="https://www.credly.com/badges/84364c62-cb2c-4690-b0ca-8f7124858da5">AI-900</Dropdown.Item>
-         <Dropdown.Item href="https://www.credly.com/badges/4769e3ce-70ec-4c08-a670-8e2cc7a10c0b">DP-900</Dropdown.Item>
-          <Dropdown.Item href="https://www.credly.com/badges/00b76e90-75ef-49ba-8367-a06aeced7e77">PL-900</Dropdown.Item>
+        <Dropdown.Item href="https://www.credly.com/users/mauryasoni">PROFILE</Dropdown.Item>
+
       </DropdownButton>
           </Nav>
         </Navbar.Collapse>
