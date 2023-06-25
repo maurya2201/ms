@@ -6,12 +6,8 @@ import leaf from "../../Assets/5.webp";
 import emotion from "../../Assets/5.2.webp";
 import editor from "../../Assets/5.1.webp";
 import chatify from "../../Assets/1.png"
-import suicide from "../../Assets/lms.png";
+import suicide from "../../Assets/BKS.png";
 import bitsOfCode from "../../Assets/2.png";
-
-
-
-
 
 
 function Projects() {
@@ -108,7 +104,7 @@ function Projects() {
           <ProjectCard
             imgPath={suicide}
             isBlog={false}
-            title=<center>LIBRARY MANAGEMENT SYSTEM</center>
+            title=<center>BOOK STORE</center>
             description={<center>------------TECHNOLOGIES USED---------------
             <ul>
              <li>REACT(FRONTEND)</li> 
@@ -116,8 +112,7 @@ function Projects() {
              <li>MONGODB(DATABASE)</li> 
               </ul>
               </center>}
-            ghLink="https://github.com/maurya2201/backend-api.git"
-            demoLink="https://lms-bugq.onrender.com"
+            ghLink="https://github.com/maurya2201/BOOKSTORE-MERN.git"
           />
         </Col> 
         </Row>
