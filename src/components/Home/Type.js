@@ -6,10 +6,10 @@ function Type() {
     <Typewriter
       options={{
         strings: [
+          "AWS Certified",
           "Web developer",
           "Azure Certified",
           "Devops",
-          "Exploring AWS",
         ],
         autoStart: true,
         loop: true,
