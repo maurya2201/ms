@@ -112,7 +112,7 @@ function Projects() {
              <li>MONGODB(DATABASE)</li> 
               </ul>
               </center>}
-            ghLink="https://github.com/maurya2201/BOOKSTORE-MERN.git"
+            ghLink="https://github.com/maurya2201/BOOKSTORE-FRONTEND.git"
           />
         </Col> 
         </Row>
